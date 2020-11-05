@@ -1,0 +1,5 @@
+/home/gaokechen/Detector-caffe/build/CMakeFiles/edit_cache.dir
+/home/gaokechen/Detector-caffe/build/CMakeFiles/detector_static.dir
+/home/gaokechen/Detector-caffe/build/CMakeFiles/rebuild_cache.dir
+/home/gaokechen/Detector-caffe/build/CMakeFiles/Detector.dir
+/home/gaokechen/Detector-caffe/build/CMakeFiles/detector.dir

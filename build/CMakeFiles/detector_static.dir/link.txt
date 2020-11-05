@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libdetector_static.a  CMakeFiles/detector_static.dir/src/detector.cpp.o
+/usr/bin/ranlib ../lib/libdetector_static.a

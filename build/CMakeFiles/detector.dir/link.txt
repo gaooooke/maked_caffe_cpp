@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libdetector.so -o ../lib/libdetector.so CMakeFiles/detector.dir/src/detector.cpp.o 
